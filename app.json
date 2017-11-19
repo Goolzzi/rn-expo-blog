@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "react-native-blog",
+    "description": "A react-native blog theme",
+    "slug": "react-native-blog",
+    "privacy": "unlisted",
+    "sdkVersion": "21.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/blog.png",
+    "loading": {
+      "icon": "./assets/icons/logo.png",
+      "backgroundColor":"#494949",
+      "hideExponentText": true
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf", "mp4"]
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "androidStatusBar": {
+      "backgroundColor": "#494949"
+    },
+  }
+}
